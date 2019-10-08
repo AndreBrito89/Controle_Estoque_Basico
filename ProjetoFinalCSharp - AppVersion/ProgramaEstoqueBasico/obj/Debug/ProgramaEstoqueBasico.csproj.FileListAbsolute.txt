@@ -1,0 +1,39 @@
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.exe.config
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.exe
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.pdb
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.Form1.resources
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.Properties.Resources.resources
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.exe
+C:\Users\andre\source\repos\ProgramaEstoqueBasico\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.pdb
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.exe.config
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.exe
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.pdb
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.Form1.resources
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.Properties.Resources.resources
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.exe
+C:\Users\andre\OneDrive\Desktop\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.pdb
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.exe.config
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.exe
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.pdb
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csprojAssemblyReference.cache
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.Form1.resources
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.Properties.Resources.resources
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csproj.GenerateResource.cache
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csproj.CoreCompileInputs.cache
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.exe
+D:\Downloads\ProjetoFinalCSharp_1562176436\ProjetoFinalCSharp\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.pdb
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.exe.config
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.exe
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\bin\Debug\ProgramaEstoqueBasico.pdb
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.Form1.resources
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.Properties.Resources.resources
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.exe
+C:\Users\andre\source\repos\ProjetoFinalCSharp - AppVersion\ProgramaEstoqueBasico\obj\Debug\ProgramaEstoqueBasico.pdb
